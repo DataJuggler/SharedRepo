@@ -1,0 +1,5 @@
+The project Delimiter has been moved to its own repo.
+
+https://githug.com/DataJuggler/Delimiter
+
+Sorry if a video brought you here by accident.

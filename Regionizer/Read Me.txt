@@ -1,0 +1,5 @@
+Regionizer has been moved to its own repository.
+
+https://github.com/DataJuggler/Regionizer
+
+Sorry if you came here by accident.

@@ -1,0 +1,5 @@
+The project DataJuggler.Win.Controls has been moved to its own repo.
+
+https://githug.com/DataJuggler/DataJuggler.Win.Controls.
+
+Sorry if a video brought you here by accident.

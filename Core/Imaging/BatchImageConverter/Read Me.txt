@@ -1,0 +1,5 @@
+Batch Image Converter is now in its own repo.
+
+https://github.com/DataJuggler/BatchImageConverter
+
+Sorry if a video sent you here by mistake.

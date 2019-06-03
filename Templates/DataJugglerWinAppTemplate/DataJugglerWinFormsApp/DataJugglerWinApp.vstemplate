@@ -1,0 +1,17 @@
+<VSTemplate Version="3.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="ProjectGroup">
+  <TemplateData>
+    <Name>DataJugglerWinApp</Name>
+    <Description>Create a new Data juggler Windows Forms project that contains the references for DataJuggler.Core.UltimateHelper and DataJuggler.Win.Controls.</Description>
+    <Icon>DataJuggler.ico</Icon>
+    <ProjectType>CSharp</ProjectType>
+  </TemplateData>
+  <TemplateContent>
+      <ProjectCollection>
+          <ProjectTemplateLink ProjectName="DataJugglerWinApp">
+            DataJugglerWinApp\DataJugglerWinApp.vstemplate
+          </ProjectTemplateLink>
+      </ProjectCollection>
+  </TemplateContent> 
+</VSTemplate>
+
+

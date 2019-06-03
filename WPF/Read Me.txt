@@ -1,0 +1,3 @@
+DataJuggler.WPF.Controls is currently only available in the Regionizer Visual Studio package.
+
+I will add this project to its own repository and NuGet whenever I get a chance.

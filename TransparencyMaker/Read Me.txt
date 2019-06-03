@@ -1,0 +1,7 @@
+The project TransparencyMaker is now in its own repo.
+
+https://github.com/DataJuggler/TransparencyMaker
+
+Thank for your patience if you watched a video that sent you here by mistake.
+
+I will eventually update all my videos once the seperation is complete for some more projects.
